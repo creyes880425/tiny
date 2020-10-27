@@ -1,0 +1,14 @@
+{
+    "name": "@creyes880425/tiny",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "creyes880425/tiny",
+    "main": "index.js",
+    "keywords": [
+      "tiny",
+      "npm",
+      "package",
+      "creyes880425"
+    ]
+  }
